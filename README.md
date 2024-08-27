@@ -1,4 +1,4 @@
-<span style="font-size:0.5em;"> # PatikaWeek7Homework2 sanatcıların ile ilgili bilgilerin olduğu liste üzerinde sorgular oluşturuldu. Sorgular linq syntax ları kullanılarak yapılmakta.
+<span style="font-size:0.5em;"> # PatikaWeek7Homework2 sanatçıların ile ilgili bilgilerin olduğu liste üzerinde sorgular oluşturuldu. Sorgular linq syntax ları kullanılarak yapılmakta.
 <H4>İstenilen Sorgular </H4>
 Adı 'S' ile başlayan şarkıcılar<br>
 Albüm satışları 10 milyon'un üzerinde olan şarkıcılar<br>
